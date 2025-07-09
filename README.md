@@ -1,2 +1,2 @@
-# xss-test <img src=x onerror=alert(1)>
+ <img src=x onerror=alert(1)>
 
